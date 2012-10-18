@@ -10,3 +10,12 @@
 *.lai
 *.la
 *.a
+*.eep
+*.hex
+*.elp
+*.lss
+*.map
+*.elf
+*.lst
+*.sym
+*.d
